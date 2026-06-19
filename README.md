@@ -1,4 +1,4 @@
-<a href="https://github.com/nishanths9944">
+<a href="https://github.com/Nishanth7m">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nishanth%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Ethical%20Hacker%20%7C%20Building%20AI-Powered%20Security%20Tools&descAlignY=62&descSize=16" />
 </a>
 
@@ -36,7 +36,7 @@ const nishanth = {
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🔭 Currently building **[DUALOPS.AI](https://github.com/nishanths9944)** — a serverless AI cyber warfare simulation on Google Cloud Run
+- 🔭 Currently building **[DUALOPS.AI](https://github.com/Nishanth7m)** — a serverless AI cyber warfare simulation on Google Cloud Run
 - 🛡️ Passionate about **Ethical Hacking**, MITRE ATT&CK, and LLM security research
 - 🎓 **Google Student Ambassador** & **Google Cloud Arcade Novice Tier**
 - 🏆 **OpenAI Buildathon Finalist** — shortlisted from all of Tamil Nadu
@@ -197,16 +197,16 @@ const nishanth = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishanths9944&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanths9944&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nishanth7m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanth7m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanths9944&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishanth7m&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanths9944&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishanth7m&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -230,13 +230,13 @@ const nishanth = {
   <a href="https://www.linkedin.com/in/nishanth-s-73a93b28b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/nishanths9944">
+  <a href="https://github.com/Nishanth7m">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishanths9944&label=Profile+Views&color=70A5FD&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Nishanth7m&label=Profile+Views&color=70A5FD&style=flat-square" alt="Profile Views"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
